@@ -1,2 +1,3 @@
-add /usr/bin/env
+add /usr/bin/env  hello.py
 coding: utf-8
+
