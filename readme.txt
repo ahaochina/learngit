@@ -7,3 +7,5 @@ Git can merge with no-ff.
 Git can create stash.
 Modify in master.
 Modify in dev.
+MOdify in dev too.
+
