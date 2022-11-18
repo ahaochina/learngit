@@ -8,3 +8,4 @@ Git can create stash.
 Modify in master.
 Creating a new branch is quick and simple.
 add merge
+Git can merge with fast forward.
