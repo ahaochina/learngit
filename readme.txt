@@ -9,4 +9,5 @@ Modify in master.
 Creating a new branch is quick and simple.
 add merge
 Git can merge with fast forward.
+Git stash before        create
 Git is a free software ...
